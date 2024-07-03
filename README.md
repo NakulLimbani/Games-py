@@ -7,7 +7,7 @@ This repository contains various games developed using Python. Each game is orga
 ## Games Included
 
 - **Tic Tac Toe**: Classic game implemented in Python.
-  - Description: Implementation of Tic Tac Toe game using Python.
+- **Slither**: Classic Snake game implemented in Python.
 
 ## Future Improvements
 
